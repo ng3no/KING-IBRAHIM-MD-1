@@ -48,7 +48,7 @@ const Heroku = require("heroku-client");
 const gptdm = process.env.GPT_INBOX || 'TRUE';
     const cmd = body.startsWith(prefix);
 //const autobio = process.env.AUTOBIO || 'TRUE';
-const botname = process.env.BOTNAME || 'dreaded BOT';
+const botname = process.env.BOTNAME || 'KING IBRAHIM MD';
 const antibot = process.env.ANTIBOT || 'TRUE';
   
     const command = body.replace(prefix, "").trim().split(/ +/).shift().toLowerCase();
@@ -449,90 +449,89 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
       case "help":
         case "menu":
-let cap = `┌───═[ ${botname} ]═──▸
+let cap = `🇰🇪🇰🇪🇰🇪[ ${botname} ]🇰🇪🇰🇪🇰🇪
 
-▯ Hello ${m.pushName}
-This is a simple WhatsApp Bot.
-Below is my command list.
-▯
-▯
-└───────────────···▸
-┌───〈 𝗢𝗪𝗡𝗘𝗥 〉───◆
-▯╭────────────···▸
-┴│▸
-▮➣Admin
-▮➣Broadcast
-▮➣Join
-▮➣Botpp
+X/ NIAJE? ${m.pushName}🇰🇪🇰🇪🇰🇪
+  (KING IBRAHIM MD COMMAND LIST)
+    ************************
+         ¥¥¥¥¥¥¥¥¥¥¥¥
+
+┌🇰🇪🇰🇪@@@〈 𝗢𝗪𝗡𝗘𝗥 〉@@@🇰🇪🇰🇪
+▯╭@@@@@@@@@@@@
+┴@
+Admin    X/🗼
+Broadcst X/🗼
+Join     X/🗼
+Botpp    X/🗼
 ▮➣>
-▮➣Block
-▮➣Kill
-▮➣Unblock
-▮➣Setvar
-▮➣Getvar
+Block    X/🗼
+Kill     X/🗼
+Unblock  X/🗼
+Setvar   X/🗼
+Getvar   X/🗼
 ┬│▸
-│╰─────────────···▸
-└───────────────···▸
+│╰@@@@@@@@@@@@@@@@@
+└@@@@@@@@@@@@@@@#@#@@···▸
 
-┌───〈 𝗚𝗘𝗡𝗘𝗥𝗔𝗟 〉───◆
-▯╭─────────────···▸
+┌🇰🇪🇰🇪〈 𝗚𝗘𝗡𝗘𝗥𝗔𝗟 〉🇰🇪🇰🇪
+▯╭@@@@@@@@@@@@@@@@@@@···▸
 ┴│▸
-▮➣Sticker
-▮➣Toimg
-▮➣Upload
-▮➣Smeme
-▮➣Song
-▮➣Play
-▮➣Whatsong
-▮➣Owner
-▮➣Yts
-▮➣Ytmp3 
-▮➣Ytmp4
-▮➣Lyrics
-▮➣Movie
-▮➣Mix
-▮➣Ai-img
-▮➣Gpt
-▮➣Ai
-▮➣DP
-▮➣Speed
-▮➣Alive
-▮➣Runtime
-▮➣Credits
-▮➣Enc
-▮➣Compile-py
-▮➣Compile-js
-▮➣Compile-c
-▮➣Compile-c++
-▮➣Script
-▮➣Owner
-▮➣Vars
-▮➣Mail
-▮➣Inbox
+🗼Sticker
+🗼Toimg
+🗼Upload
+🗼Smeme
+🗼Song
+🗼Play
+🗼Whatsong
+🗼Owner
+🗼Yts
+🗼Ytmp3 
+🗼Ytmp4
+🗼Lyrics
+🗼Movie
+🗼Mix
+🗼Ai-img
+🗼Gpt
+🗼Ai
+🗼DP
+🗼Speed
+🗼Alive
+🗼Runtime
+🗼Credits
+🗼Enc
+🗼Compile-py
+🗼Compile-js
+🗼Compile-c
+🗼Compile-c++
+🗼Script
+🗼Owner
+🗼Vars
+🗼Mail
+🗼Inbox
 ┬│▸
-│╰────────────··
-┌───〈 𝗔𝗗𝗠𝗜𝗡 〉───◆
-▯╭─────────────···▸
-▮➣Promote
-▮➣Demote
-▮➣Delete
-▮➣Remove
-▮➣Foreigners
-▮➣Faker
-▮➣Close
-▮➣Open
-▮➣Disp-off
-▮➣Disp-7
-▮➣Disp-90
-▮➣Icon
-▮➣Subject
-▮➣Desc
-▮➣Leave
-▮➣Tagall
-▮➣Hidetag
-▮➣Revoke
-┃✵╰──────────────
-╰━━━━━━━━━━━━━━━┈⊷`;
+│╰@@@@@@@@@@@@@@@@
+┌🇰🇰🇪🇰🇪〈 𝗔𝗗𝗠𝗜𝗡 〉🇰🇪🇰🇪🇰
+▯╭@@@@@@@@@@@@@@@@···▸
+☣Promote
+☣Demote
+☣Delete
+☣Remove
+☣Foreigners
+☣Faker
+☣Close
+☣Open
+☣Disp-off
+☣Disp-7
+☣Disp-90
+☣Icon
+☣Subject
+☣Desc
+☣Leave
+☣Tagall
+☣Hidetag
+☣Revoke
+┃✵╰@@@@@@@@@@@@@@@@@
+╰@@@@@@@@@@@@@@@@@@###@⊷`;
 
 if (menu === 'VIDEO') {
 
