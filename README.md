@@ -1,7 +1,13 @@
-# DREADED-BOT
+🄺🄸🄽🄶 🄸🄱🅁🄰🄷🄸🄼 🄱🄾🅃
+# contact:king Ibrahim = 0710772666
+# Email : ngoyaibraah@gmail.com
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<p align="center">
+    <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/69551b119a4c50beed3e9.jpg" alt="01" border="0" /></a>
+</p>
 ## FEATURES
 This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of openai APIs.
 
@@ -22,7 +28,7 @@ Alternatively, pair locally using the repo [Here](https://github.com/Fortunatusm
     
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/Fortunatusmokaya/DREADED-GPT-AI/fork)
+- Fork this repo by taDREADED-GPhttps://github.com/iH5i/king-Ibrahim-md/edit/main/README.md)
 
 
 - Upload the creds.json that you received to the dreaded1 folder.
@@ -49,7 +55,7 @@ Termux procedure is given below.
 ```bash
 $ pkg install git nodejs -y
 $ git clone https://github.com/Fortunatusmokaya/DREADED-GPT-AI
-$ cd DREADED-GPT-AI
+$ cd 🄺🄸🄽🄶 🄸🄱🅁🄰🄷🄸🄼
 $ npm install
 ```
 
@@ -69,5 +75,5 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 [MIT License](https://github.com/Fortunatusmokaya/DREADED-GPT-AI/blob/main/LICENSE)
 
-Copyright (c) 2023 Dreaded-GPT-AI
+Copyright (c) 2023 (254) 🄺🄸🄽🄶 🄸🄱🅁🄰🄷🄸🄼 🄼🄳
 
